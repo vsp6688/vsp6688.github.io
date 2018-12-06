@@ -1,3 +1,19 @@
+wget -N --no-check-certificate https://raw.githubusercontent.com/vsp6688/doubi/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
+
+使用方法
+# 启动BBR
+bash bbr.sh start
+ 
+# 关闭BBR
+bash bbr.sh stop
+ 
+# 查看BBR状态
+bash bbr.sh status
+
+wget -N --no-check-certificate https://raw.githubusercontent.com/vsp6688/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
+
+-----------------------------------------------------------
+
 你好世界Mac OS X系统更新升级包路径./ library / updates
 
 /资源库/应用程序支持/ Adob​​e /字体
