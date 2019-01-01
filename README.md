@@ -2,9 +2,9 @@
 yum -y install wget
 
 ```
-
+```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/vsp6688/doubi/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
-
+```
 使用方法
 # 启动BBR
 bash bbr.sh start
