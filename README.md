@@ -7,23 +7,28 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/vsp6688/doubi/m
 ```
 使用方法
 启动BBR
+```bash
 bash bbr.sh start
- 
+```
 关闭BBR
+```bash
 bash bbr.sh stop
+```
  
 查看BBR状态
+```bash
 bash bbr.sh status
+```
 
+```bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/vsp6688/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
-
+```
 调出主菜单
 ```bash
 bash ssrmu.sh
+```
 
-
-```bash 
-
+```bash
 Mac OS X系统更新升级包路径./ library / updates
 
 /资源库/应用程序支持/ Adob​​e /字体
