@@ -21,8 +21,9 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/vsp6688/doubi/m
 调出主菜单
 # bash ssrmu.sh
 -----------------------------------------------------------
+```bash 
 
-你好世界Mac OS X系统更新升级包路径./ library / updates
+Mac OS X系统更新升级包路径./ library / updates
 
 /资源库/应用程序支持/ Adob​​e /字体
 
@@ -34,7 +35,7 @@ ACL白名单列表软件原网址备份 https://raw.githubusercontent.com/shadow
 
 原件黑名单原网址备份 https://raw.githubusercontent.com/shadowsocks/shadowsocks-libev/master/ShadowsocksX-NG/server_block_chn.acl
 
-```bash 
+
 软件自带的白名单源之前破娃删库的时候就已经被删掉了。所以白名单是无法更新也就是没有内容的。
 现在的源只有之前的备份：
 gfwlist：https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
