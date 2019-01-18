@@ -6,20 +6,19 @@ yum -y install wget
 wget -N --no-check-certificate https://raw.githubusercontent.com/vsp6688/doubi/master/bbr.sh && chmod +x bbr.sh && bash bbr.sh
 ```
 使用方法
-# 启动BBR
+启动BBR
 bash bbr.sh start
  
-# 关闭BBR
+关闭BBR
 bash bbr.sh stop
  
-# 查看BBR状态
+查看BBR状态
 bash bbr.sh status
 
 wget -N --no-check-certificate https://raw.githubusercontent.com/vsp6688/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 
-
 调出主菜单
-# bash ssrmu.sh
+bash ssrmu.sh
 -----------------------------------------------------------
 ```bash 
 
