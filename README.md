@@ -18,8 +18,10 @@ bash bbr.sh status
 wget -N --no-check-certificate https://raw.githubusercontent.com/vsp6688/doubi/master/ssrmu.sh && chmod +x ssrmu.sh && bash ssrmu.sh
 
 调出主菜单
+```bash
 bash ssrmu.sh
------------------------------------------------------------
+
+
 ```bash 
 
 Mac OS X系统更新升级包路径./ library / updates
