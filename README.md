@@ -29,7 +29,7 @@ bash ssrmu.sh
 ```
 
 ```bash
-Mac OS X系统更新升级包路径./ library / updates
+Mac OS X系统更新升级包路径./library/updates
 
 /资源库/应用程序支持/ Adob​​e /字体
 
