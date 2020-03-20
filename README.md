@@ -1,3 +1,5 @@
+https://github.com/vsp6688/vsp6688.github.io/releases
+
 ```bash
 yum -y install wget
 
